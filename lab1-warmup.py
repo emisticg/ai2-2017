@@ -38,5 +38,14 @@ def ftoc(temp):
     celsius = (temp - 32) * (5/9)
     print(celsius)
     
-
+helloworld()
+print()
+board()    
+print()
+tictactoe()  
+print()
+multiples()    
+print()
+collatz(15)
+print()
 ftoc(88)
